@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    margin: 100px 500px;
+    background-color: white;
+    padding: 50px 0px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur('15px');
+    border: solid white 2px;
+    border-radius: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+.head{
+    margin: 20px 0px;
+}
+.fill{
+    margin: 20px 0px;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.btn{
+    margin-left: 10px;
+    background-color: green;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-reset{
+   background-color: red;
+   color: white;
+   padding: 10px 10px;
+   border: none;
+   border-radius: 5px;
+   margin-left: 10px;
+}
